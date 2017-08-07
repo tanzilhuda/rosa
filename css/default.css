@@ -1,0 +1,24 @@
+
+a,.tp-caption a.btn:hover {
+	color: #67b0d1;
+}
+.top-nav-collapse {
+	background: #fff;
+	box-shadow: 0 0 5px 1px #dedede;
+	min-height: 50px;
+	padding: 15px 0;
+	transition: all 0.2s ease-in-out 0s;
+}
+.navbar-custom.top-nav-collapse ul.nav li a {
+  transition: all 0.2s ease-in-out 0s;
+  color: #000;
+}
+.top-nav-collapse ul.nav ul.dropdown-menu li a:hover{
+	color:#BE6124;
+}
+.navbar-custom.top-nav-collapse ul.nav li.active a {
+  color: deepskyblue;
+}
+.navbar-custom.top-nav-collapse .navbar-brand h1{color: deepskyblue}
+
+
